@@ -1,0 +1,484 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		6ED47EF21AE47B3E00514CE9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED47EF11AE47B3E00514CE9 /* AppDelegate.swift */; };
+		6ED47EF41AE47B3E00514CE9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED47EF31AE47B3E00514CE9 /* ViewController.swift */; };
+		6ED47EF71AE47B3F00514CE9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6ED47EF51AE47B3F00514CE9 /* Main.storyboard */; };
+		6ED47EF91AE47B3F00514CE9 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6ED47EF81AE47B3F00514CE9 /* Images.xcassets */; };
+		6ED47EFC1AE47B3F00514CE9 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6ED47EFA1AE47B3F00514CE9 /* LaunchScreen.xib */; };
+		6ED47F081AE47B3F00514CE9 /* SpaceshipsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED47F071AE47B3F00514CE9 /* SpaceshipsTests.swift */; };
+		6ED47F1D1AE4831800514CE9 /* 1bea3f5d857bef25b999a2a6f0ac11d01344365566.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6ED47F121AE4831800514CE9 /* 1bea3f5d857bef25b999a2a6f0ac11d01344365566.jpg */; };
+		6ED47F1E1AE4831800514CE9 /* 18j4481jmuoi7jpg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6ED47F131AE4831800514CE9 /* 18j4481jmuoi7jpg.jpg */; };
+		6ED47F1F1AE4831800514CE9 /* 28c2aed4f68a4549a7d758f701492a491392085477.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6ED47F141AE4831800514CE9 /* 28c2aed4f68a4549a7d758f701492a491392085477.jpg */; };
+		6ED47F201AE4831800514CE9 /* 542ccacaa79d4784de7053385ed41eff1343261039.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6ED47F151AE4831800514CE9 /* 542ccacaa79d4784de7053385ed41eff1343261039.jpg */; };
+		6ED47F211AE4831800514CE9 /* AvengerBattleCruiser.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6ED47F161AE4831800514CE9 /* AvengerBattleCruiser.jpeg */; };
+		6ED47F221AE4831800514CE9 /* images.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6ED47F171AE4831800514CE9 /* images.jpeg */; };
+		6ED47F231AE4831800514CE9 /* star trek spaceships 1280x960 wallpaper_www.wallpaperno.com_37.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6ED47F181AE4831800514CE9 /* star trek spaceships 1280x960 wallpaper_www.wallpaperno.com_37.jpg */; };
+		6ED47F241AE4831800514CE9 /* Star-Trek-gallery-ships-0003.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6ED47F191AE4831800514CE9 /* Star-Trek-gallery-ships-0003.jpg */; };
+		6ED47F251AE4831800514CE9 /* sto-deltapack-epl-903_thumbnail.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6ED47F1A1AE4831800514CE9 /* sto-deltapack-epl-903_thumbnail.jpg */; };
+		6ED47F261AE4831800514CE9 /* the_u_s_s__frostbite___star_trek_online_by_stratosara-d5fen36.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6ED47F1B1AE4831800514CE9 /* the_u_s_s__frostbite___star_trek_online_by_stratosara-d5fen36.jpg */; };
+		6ED47F271AE4831800514CE9 /* tj92.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6ED47F1C1AE4831800514CE9 /* tj92.jpg */; };
+		6ED47F2B1AE49DA700514CE9 /* Enterprise-D-star-trek-the-next-generation-3983391-1280-960.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6ED47F2A1AE49DA700514CE9 /* Enterprise-D-star-trek-the-next-generation-3983391-1280-960.jpg */; };
+		6ED47F2D1AE4A20200514CE9 /* Sao_Paulo_class,_Star_Trek_Online.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6ED47F2C1AE4A20200514CE9 /* Sao_Paulo_class,_Star_Trek_Online.jpg */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		6ED47F021AE47B3F00514CE9 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 6ED47EE41AE47B3E00514CE9 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6ED47EEB1AE47B3E00514CE9;
+			remoteInfo = Spaceships;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		6ED47EEC1AE47B3E00514CE9 /* Spaceships.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Spaceships.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6ED47EF01AE47B3E00514CE9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6ED47EF11AE47B3E00514CE9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		6ED47EF31AE47B3E00514CE9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		6ED47EF61AE47B3F00514CE9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		6ED47EF81AE47B3F00514CE9 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		6ED47EFB1AE47B3F00514CE9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		6ED47F011AE47B3F00514CE9 /* SpaceshipsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SpaceshipsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		6ED47F061AE47B3F00514CE9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6ED47F071AE47B3F00514CE9 /* SpaceshipsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpaceshipsTests.swift; sourceTree = "<group>"; };
+		6ED47F121AE4831800514CE9 /* 1bea3f5d857bef25b999a2a6f0ac11d01344365566.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1bea3f5d857bef25b999a2a6f0ac11d01344365566.jpg; sourceTree = "<group>"; };
+		6ED47F131AE4831800514CE9 /* 18j4481jmuoi7jpg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 18j4481jmuoi7jpg.jpg; sourceTree = "<group>"; };
+		6ED47F141AE4831800514CE9 /* 28c2aed4f68a4549a7d758f701492a491392085477.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 28c2aed4f68a4549a7d758f701492a491392085477.jpg; sourceTree = "<group>"; };
+		6ED47F151AE4831800514CE9 /* 542ccacaa79d4784de7053385ed41eff1343261039.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 542ccacaa79d4784de7053385ed41eff1343261039.jpg; sourceTree = "<group>"; };
+		6ED47F161AE4831800514CE9 /* AvengerBattleCruiser.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AvengerBattleCruiser.jpeg; sourceTree = "<group>"; };
+		6ED47F171AE4831800514CE9 /* images.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = images.jpeg; sourceTree = "<group>"; };
+		6ED47F181AE4831800514CE9 /* star trek spaceships 1280x960 wallpaper_www.wallpaperno.com_37.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "star trek spaceships 1280x960 wallpaper_www.wallpaperno.com_37.jpg"; sourceTree = "<group>"; };
+		6ED47F191AE4831800514CE9 /* Star-Trek-gallery-ships-0003.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Star-Trek-gallery-ships-0003.jpg"; sourceTree = "<group>"; };
+		6ED47F1A1AE4831800514CE9 /* sto-deltapack-epl-903_thumbnail.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "sto-deltapack-epl-903_thumbnail.jpg"; sourceTree = "<group>"; };
+		6ED47F1B1AE4831800514CE9 /* the_u_s_s__frostbite___star_trek_online_by_stratosara-d5fen36.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "the_u_s_s__frostbite___star_trek_online_by_stratosara-d5fen36.jpg"; sourceTree = "<group>"; };
+		6ED47F1C1AE4831800514CE9 /* tj92.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tj92.jpg; sourceTree = "<group>"; };
+		6ED47F2A1AE49DA700514CE9 /* Enterprise-D-star-trek-the-next-generation-3983391-1280-960.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Enterprise-D-star-trek-the-next-generation-3983391-1280-960.jpg"; sourceTree = "<group>"; };
+		6ED47F2C1AE4A20200514CE9 /* Sao_Paulo_class,_Star_Trek_Online.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Sao_Paulo_class,_Star_Trek_Online.jpg"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		6ED47EE91AE47B3E00514CE9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6ED47EFE1AE47B3F00514CE9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		6ED47EE31AE47B3E00514CE9 = {
+			isa = PBXGroup;
+			children = (
+				6ED47EEE1AE47B3E00514CE9 /* Spaceships */,
+				6ED47F041AE47B3F00514CE9 /* SpaceshipsTests */,
+				6ED47EED1AE47B3E00514CE9 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		6ED47EED1AE47B3E00514CE9 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6ED47EEC1AE47B3E00514CE9 /* Spaceships.app */,
+				6ED47F011AE47B3F00514CE9 /* SpaceshipsTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		6ED47EEE1AE47B3E00514CE9 /* Spaceships */ = {
+			isa = PBXGroup;
+			children = (
+				6ED47F111AE482E000514CE9 /* Photos */,
+				6ED47EF11AE47B3E00514CE9 /* AppDelegate.swift */,
+				6ED47EF31AE47B3E00514CE9 /* ViewController.swift */,
+				6ED47EF51AE47B3F00514CE9 /* Main.storyboard */,
+				6ED47EF81AE47B3F00514CE9 /* Images.xcassets */,
+				6ED47EFA1AE47B3F00514CE9 /* LaunchScreen.xib */,
+				6ED47EEF1AE47B3E00514CE9 /* Supporting Files */,
+			);
+			path = Spaceships;
+			sourceTree = "<group>";
+		};
+		6ED47EEF1AE47B3E00514CE9 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				6ED47EF01AE47B3E00514CE9 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		6ED47F041AE47B3F00514CE9 /* SpaceshipsTests */ = {
+			isa = PBXGroup;
+			children = (
+				6ED47F071AE47B3F00514CE9 /* SpaceshipsTests.swift */,
+				6ED47F051AE47B3F00514CE9 /* Supporting Files */,
+			);
+			path = SpaceshipsTests;
+			sourceTree = "<group>";
+		};
+		6ED47F051AE47B3F00514CE9 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				6ED47F061AE47B3F00514CE9 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		6ED47F111AE482E000514CE9 /* Photos */ = {
+			isa = PBXGroup;
+			children = (
+				6ED47F121AE4831800514CE9 /* 1bea3f5d857bef25b999a2a6f0ac11d01344365566.jpg */,
+				6ED47F131AE4831800514CE9 /* 18j4481jmuoi7jpg.jpg */,
+				6ED47F141AE4831800514CE9 /* 28c2aed4f68a4549a7d758f701492a491392085477.jpg */,
+				6ED47F151AE4831800514CE9 /* 542ccacaa79d4784de7053385ed41eff1343261039.jpg */,
+				6ED47F161AE4831800514CE9 /* AvengerBattleCruiser.jpeg */,
+				6ED47F171AE4831800514CE9 /* images.jpeg */,
+				6ED47F181AE4831800514CE9 /* star trek spaceships 1280x960 wallpaper_www.wallpaperno.com_37.jpg */,
+				6ED47F191AE4831800514CE9 /* Star-Trek-gallery-ships-0003.jpg */,
+				6ED47F1A1AE4831800514CE9 /* sto-deltapack-epl-903_thumbnail.jpg */,
+				6ED47F1B1AE4831800514CE9 /* the_u_s_s__frostbite___star_trek_online_by_stratosara-d5fen36.jpg */,
+				6ED47F1C1AE4831800514CE9 /* tj92.jpg */,
+				6ED47F2A1AE49DA700514CE9 /* Enterprise-D-star-trek-the-next-generation-3983391-1280-960.jpg */,
+				6ED47F2C1AE4A20200514CE9 /* Sao_Paulo_class,_Star_Trek_Online.jpg */,
+			);
+			name = Photos;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		6ED47EEB1AE47B3E00514CE9 /* Spaceships */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6ED47F0B1AE47B3F00514CE9 /* Build configuration list for PBXNativeTarget "Spaceships" */;
+			buildPhases = (
+				6ED47EE81AE47B3E00514CE9 /* Sources */,
+				6ED47EE91AE47B3E00514CE9 /* Frameworks */,
+				6ED47EEA1AE47B3E00514CE9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Spaceships;
+			productName = Spaceships;
+			productReference = 6ED47EEC1AE47B3E00514CE9 /* Spaceships.app */;
+			productType = "com.apple.product-type.application";
+		};
+		6ED47F001AE47B3F00514CE9 /* SpaceshipsTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6ED47F0E1AE47B3F00514CE9 /* Build configuration list for PBXNativeTarget "SpaceshipsTests" */;
+			buildPhases = (
+				6ED47EFD1AE47B3F00514CE9 /* Sources */,
+				6ED47EFE1AE47B3F00514CE9 /* Frameworks */,
+				6ED47EFF1AE47B3F00514CE9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				6ED47F031AE47B3F00514CE9 /* PBXTargetDependency */,
+			);
+			name = SpaceshipsTests;
+			productName = SpaceshipsTests;
+			productReference = 6ED47F011AE47B3F00514CE9 /* SpaceshipsTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		6ED47EE41AE47B3E00514CE9 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0630;
+				ORGANIZATIONNAME = "Art Rosario";
+				TargetAttributes = {
+					6ED47EEB1AE47B3E00514CE9 = {
+						CreatedOnToolsVersion = 6.3;
+					};
+					6ED47F001AE47B3F00514CE9 = {
+						CreatedOnToolsVersion = 6.3;
+						TestTargetID = 6ED47EEB1AE47B3E00514CE9;
+					};
+				};
+			};
+			buildConfigurationList = 6ED47EE71AE47B3E00514CE9 /* Build configuration list for PBXProject "Spaceships" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 6ED47EE31AE47B3E00514CE9;
+			productRefGroup = 6ED47EED1AE47B3E00514CE9 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				6ED47EEB1AE47B3E00514CE9 /* Spaceships */,
+				6ED47F001AE47B3F00514CE9 /* SpaceshipsTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		6ED47EEA1AE47B3E00514CE9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6ED47F1F1AE4831800514CE9 /* 28c2aed4f68a4549a7d758f701492a491392085477.jpg in Resources */,
+				6ED47F261AE4831800514CE9 /* the_u_s_s__frostbite___star_trek_online_by_stratosara-d5fen36.jpg in Resources */,
+				6ED47F2B1AE49DA700514CE9 /* Enterprise-D-star-trek-the-next-generation-3983391-1280-960.jpg in Resources */,
+				6ED47F271AE4831800514CE9 /* tj92.jpg in Resources */,
+				6ED47F231AE4831800514CE9 /* star trek spaceships 1280x960 wallpaper_www.wallpaperno.com_37.jpg in Resources */,
+				6ED47F1E1AE4831800514CE9 /* 18j4481jmuoi7jpg.jpg in Resources */,
+				6ED47F221AE4831800514CE9 /* images.jpeg in Resources */,
+				6ED47F201AE4831800514CE9 /* 542ccacaa79d4784de7053385ed41eff1343261039.jpg in Resources */,
+				6ED47EF71AE47B3F00514CE9 /* Main.storyboard in Resources */,
+				6ED47EFC1AE47B3F00514CE9 /* LaunchScreen.xib in Resources */,
+				6ED47F2D1AE4A20200514CE9 /* Sao_Paulo_class,_Star_Trek_Online.jpg in Resources */,
+				6ED47F1D1AE4831800514CE9 /* 1bea3f5d857bef25b999a2a6f0ac11d01344365566.jpg in Resources */,
+				6ED47F251AE4831800514CE9 /* sto-deltapack-epl-903_thumbnail.jpg in Resources */,
+				6ED47F211AE4831800514CE9 /* AvengerBattleCruiser.jpeg in Resources */,
+				6ED47EF91AE47B3F00514CE9 /* Images.xcassets in Resources */,
+				6ED47F241AE4831800514CE9 /* Star-Trek-gallery-ships-0003.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6ED47EFF1AE47B3F00514CE9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		6ED47EE81AE47B3E00514CE9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6ED47EF41AE47B3E00514CE9 /* ViewController.swift in Sources */,
+				6ED47EF21AE47B3E00514CE9 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6ED47EFD1AE47B3F00514CE9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6ED47F081AE47B3F00514CE9 /* SpaceshipsTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		6ED47F031AE47B3F00514CE9 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 6ED47EEB1AE47B3E00514CE9 /* Spaceships */;
+			targetProxy = 6ED47F021AE47B3F00514CE9 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		6ED47EF51AE47B3F00514CE9 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6ED47EF61AE47B3F00514CE9 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		6ED47EFA1AE47B3F00514CE9 /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6ED47EFB1AE47B3F00514CE9 /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		6ED47F091AE47B3F00514CE9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		6ED47F0A1AE47B3F00514CE9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		6ED47F0C1AE47B3F00514CE9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = Spaceships/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		6ED47F0D1AE47B3F00514CE9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = Spaceships/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		6ED47F0F1AE47B3F00514CE9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = SpaceshipsTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Spaceships.app/Spaceships";
+			};
+			name = Debug;
+		};
+		6ED47F101AE47B3F00514CE9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = SpaceshipsTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Spaceships.app/Spaceships";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		6ED47EE71AE47B3E00514CE9 /* Build configuration list for PBXProject "Spaceships" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6ED47F091AE47B3F00514CE9 /* Debug */,
+				6ED47F0A1AE47B3F00514CE9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6ED47F0B1AE47B3F00514CE9 /* Build configuration list for PBXNativeTarget "Spaceships" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6ED47F0C1AE47B3F00514CE9 /* Debug */,
+				6ED47F0D1AE47B3F00514CE9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		6ED47F0E1AE47B3F00514CE9 /* Build configuration list for PBXNativeTarget "SpaceshipsTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6ED47F0F1AE47B3F00514CE9 /* Debug */,
+				6ED47F101AE47B3F00514CE9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 6ED47EE41AE47B3E00514CE9 /* Project object */;
+}

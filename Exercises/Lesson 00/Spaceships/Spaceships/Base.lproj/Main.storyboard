@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="7531" systemVersion="14C109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" initialViewController="vXZ-lx-hvc">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7520"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="ufC-wZ-h7g">
+            <objects>
+                <viewController id="vXZ-lx-hvc" customClass="ViewController" customModule="Spaceships" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="kh9-bI-dsS">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" id="ola-Zn-H5q">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Spaceships" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="hiJ-vB-5Qt">
+                                        <rect key="frame" x="119" y="22" width="137" height="30"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="24"/>
+                                        <color key="textColor" red="0.61310369318181812" green="0.12526062917070885" blue="0.17591502739145048" alpha="1" colorSpace="calibratedRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleAspectFill" image="18j4481jmuoi7jpg.jpg" id="3MT-RS-tgV">
+                                        <rect key="frame" x="193" y="60" width="181" height="99"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                    </imageView>
+                                    <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleAspectFill" image="1bea3f5d857bef25b999a2a6f0ac11d01344365566.jpg" id="J70-DY-Cbz">
+                                        <rect key="frame" x="0.0" y="60" width="190" height="99"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                    </imageView>
+                                    <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleAspectFill" image="542ccacaa79d4784de7053385ed41eff1343261039.jpg" id="zZl-YA-RyD">
+                                        <rect key="frame" x="8" y="162" width="358" height="154"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                    </imageView>
+                                    <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleAspectFit" image="28c2aed4f68a4549a7d758f701492a491392085477.jpg" id="1bz-92-8Rq">
+                                        <rect key="frame" x="8" y="324" width="121" height="99"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                    </imageView>
+                                    <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleAspectFit" image="images.jpeg" id="u1M-F6-lPc">
+                                        <rect key="frame" x="184" y="416" width="212" height="89"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                    </imageView>
+                                    <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" image="Star-Trek-gallery-ships-0003.jpg" id="cTs-PF-rE6">
+                                        <rect key="frame" x="210" y="508" width="160" height="90"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                    </imageView>
+                                    <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" image="sto-deltapack-epl-903_thumbnail.jpg" id="mFJ-re-HzZ">
+                                        <rect key="frame" x="8" y="605" width="358" height="154"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                    </imageView>
+                                    <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleAspectFill" image="the_u_s_s__frostbite___star_trek_online_by_stratosara-d5fen36.jpg" id="9je-Ah-xnf">
+                                        <rect key="frame" x="0.0" y="767" width="187" height="96"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                    </imageView>
+                                    <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleAspectFit" image="star trek spaceships 1280x960 wallpaper_www.wallpaperno.com_37.jpg" id="NFi-Qz-HkH">
+                                        <rect key="frame" x="128" y="324" width="120" height="84"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                    </imageView>
+                                    <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleAspectFit" image="tj92.jpg" id="qIz-6h-Lld">
+                                        <rect key="frame" x="248" y="324" width="118" height="93"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                    </imageView>
+                                    <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" image="AvengerBattleCruiser.jpeg" id="OYj-jk-6t1">
+                                        <rect key="frame" x="0.0" y="416" width="202" height="182"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                    </imageView>
+                                    <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" image="Enterprise-D-star-trek-the-next-generation-3983391-1280-960.jpg" id="B5O-1P-FBi">
+                                        <rect key="frame" x="0.0" y="870" width="375" height="130"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                    </imageView>
+                                    <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" image="Sao_Paulo_class,_Star_Trek_Online.jpg" id="cIl-ow-urc">
+                                        <rect key="frame" x="187" y="767" width="187" height="96"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                    </imageView>
+                                </subviews>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="size" keyPath="contentSize">
+                                        <size key="value" width="320" height="1000"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </scrollView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="129" y="320"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="18j4481jmuoi7jpg.jpg" width="1280" height="720"/>
+        <image name="1bea3f5d857bef25b999a2a6f0ac11d01344365566.jpg" width="480" height="270"/>
+        <image name="28c2aed4f68a4549a7d758f701492a491392085477.jpg" width="1280" height="720"/>
+        <image name="542ccacaa79d4784de7053385ed41eff1343261039.jpg" width="473" height="260"/>
+        <image name="AvengerBattleCruiser.jpeg" width="1280" height="720"/>
+        <image name="Enterprise-D-star-trek-the-next-generation-3983391-1280-960.jpg" width="1280" height="960"/>
+        <image name="Sao_Paulo_class,_Star_Trek_Online.jpg" width="1024" height="460"/>
+        <image name="Star-Trek-gallery-ships-0003.jpg" width="1600" height="1200"/>
+        <image name="images.jpeg" width="300" height="168"/>
+        <image name="star trek spaceships 1280x960 wallpaper_www.wallpaperno.com_37.jpg" width="420" height="315"/>
+        <image name="sto-deltapack-epl-903_thumbnail.jpg" width="530" height="280"/>
+        <image name="the_u_s_s__frostbite___star_trek_online_by_stratosara-d5fen36.jpg" width="1024" height="522"/>
+        <image name="tj92.jpg" width="640" height="400"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
+</document>
