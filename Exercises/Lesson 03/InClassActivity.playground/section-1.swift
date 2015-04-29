@@ -3,8 +3,33 @@
 import Foundation
 
 // TODO: Create two variables, name and age. Name is a string, age is an integer.
+var name : String = "Name"
+var age : Int = 12
+
+
 
 // TODO: Print "Hello {whatever the value of name is}, you are {whatever the value of age is} years old!"
+
+println("Hello \(name) you are \(age) years old!");
+
+// TODO: Create a constant called number
+let number = 5;
+
+// TODO: Print whether the above number is even
+number % 2 == 0
+
+// TODO: Print whether the above number is multiple of three 
+number % 3 == 0
+// TODO: Create a variable "sevens". Initialize with 0. Increment that variable by seven seven times ( use different syntaxes for incrementing).
+var sevens = 0
+sevens++
+++sevens
+sevens + 1
+
+
+
+
+
 
 
 // TODO: Print “You can drink” below the above text if the user is above 21. If they are above 18, print “you can vote”. If they are above 16, print “You can drive”
@@ -13,10 +38,8 @@ import Foundation
 
 // TODO: Print the first fifty multiples of seven minus one (e.g. the first three multiples are 7, 14, 21. The first three multiples minus one are 6, 13, 20)
 
-// TODO: Create a constant called number
 
 
-// TODO: Print whether the above number is even
 
 // TODO: Print out "Hello {whatever the value of name is}, your name is {however long the string name is} characters long!. Use countElements()
 

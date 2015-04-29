@@ -4,7 +4,9 @@
 var x = 1
 
 // Declare and initialize a Double, implicitly.
-var height = 1.76
+var height = 1.6
+height + 1.1
+height * 2
 
 // Declare and initialize a constant.
 let pi = 3.14159
@@ -17,9 +19,16 @@ let speedOfLight : Double = 299792458
 
 // 4 different ways to increment x by 1.
 x = x + 1
+x
+
 x += 1
+x
+
 x++
+x
+
 ++x
+x
 println(x)
 
 // Increment height by some value.
