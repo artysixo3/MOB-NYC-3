@@ -28,15 +28,33 @@ sevens + 1
 
 
 
-
-
-
-
 // TODO: Print “You can drink” below the above text if the user is above 21. If they are above 18, print “you can vote”. If they are above 16, print “You can drive”
+
+age = 21
+if age >= 21 {
+    println("You can drink")
+}
+if age >= 18 {
+    println ("You can vote")
+}
+
+if age >= 16 {
+ ("You can drive")
+}
+
+
 
 // TODO: Print “you can drive” if the user is above 16 but below 18. It should print “You can drive and vote” if the user is above 18 but below 21. If the user is above 21, it should print “you can drive, vote and drink (but not at the same time!”.
 
+
+
 // TODO: Print the first fifty multiples of seven minus one (e.g. the first three multiples are 7, 14, 21. The first three multiples minus one are 6, 13, 20)
+
+for (var i = 0; i <= 50; i++)
+{
+    i= 7 * i
+    println (i)
+}
 
 
 
