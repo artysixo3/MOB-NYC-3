@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lesson 05 - Introduction to Functions
 
 ## Lesson Objectives
@@ -13,3 +14,6 @@
     * With no parameters
     * With parameters
     * With parameters and return values
+=======
+# Lesson 05 Exercise
+>>>>>>> cfdc39ca8089f9b1625ada393ffd6dd797e1c6b8
