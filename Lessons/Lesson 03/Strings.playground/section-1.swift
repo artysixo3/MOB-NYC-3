@@ -8,9 +8,3 @@ println("Hello, World!")
 // Concatenation, same syntax as numeric addition, but
 "Hello, " + "World!"
 
-"Hello There"
-println("Farewell")
-
-println ( 1 + 2 )
-
-println("1" + "2")

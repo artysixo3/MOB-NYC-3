@@ -3,13 +3,10 @@
 import Foundation
 
 // TODO: Create two variables, name and age. Name is a string, age is an integer.
-var name : String = "Name"
-var age : Int = 12
-
-
 
 // TODO: Print "Hello {whatever the value of name is}, you are {whatever the value of age is} years old!"
 
+<<<<<<< HEAD:Exercises/Lesson 03/InClassActivity.playground/section-1.swift
 println("Hello \(name) you are \(age) years old!");
 
 // TODO: Create a constant called number
@@ -42,6 +39,8 @@ if age >= 16 {
  ("You can drive")
 }
 
+=======
+>>>>>>> parent of 0456777... Submit Assignment:Lessons/Lesson 03/InClassActivity.playground/section-1.swift
 
 
 // TODO: Print “you can drive” if the user is above 16 but below 18. It should print “You can drive and vote” if the user is above 18 but below 21. If the user is above 21, it should print “you can drive, vote and drink (but not at the same time!”.
@@ -50,14 +49,19 @@ if age >= 16 {
 
 // TODO: Print the first fifty multiples of seven minus one (e.g. the first three multiples are 7, 14, 21. The first three multiples minus one are 6, 13, 20)
 
+<<<<<<< HEAD:Exercises/Lesson 03/InClassActivity.playground/section-1.swift
 for (var i = 0; i <= 50; i++)
 {
     i= 7 * i
     println (i)
 }
 
+=======
+// TODO: Create a constant called number
+>>>>>>> parent of 0456777... Submit Assignment:Lessons/Lesson 03/InClassActivity.playground/section-1.swift
 
 
+// TODO: Print whether the above number is even
 
 // TODO: Print out "Hello {whatever the value of name is}, your name is {however long the string name is} characters long!. Use countElements()
 
