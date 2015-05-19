@@ -106,6 +106,7 @@ func calculateAge(yearOfBirth:Int) -> Int {
     let age = currentYear - yearOfBirth
     return age
 }
+
 // Return the age at the end of the function
 calculateAge(1988)
 
