@@ -77,7 +77,20 @@ class ViewController: UIViewController {
         self.convertAndDisplay(MilesToKilometers())
     }
     
+<<<<<<< HEAD
 
+=======
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+>>>>>>> afc735bc0d3fe732df3914e5e7ad07db8de50507
     
     override func viewDidLoad() {
         super.viewDidLoad()

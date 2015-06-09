@@ -136,31 +136,48 @@
         <td><strong>Wk 6</strong></td>
         <td></td>
         <td><strong>2015 05 26</strong><br>
+<<<<<<< HEAD
             11 - MIDTERM 1<br>
             <em>Assessment #3 due</em>
         </td>
         <td><strong>2015 05 28</strong><br>12 - MIDTERM 2</td>
+=======
+            11 - MIDTERM 1 - Getting Started<br>
+            <em>Assessment #3 due</em>
+        </td>
+        <td><strong>2015 05 28</strong><br>
+            12 - MIDTERM 2 - Lab Time
+        </td>
+>>>>>>> afc735bc0d3fe732df3914e5e7ad07db8de50507
     </tr>
     
     <tr>
         <td><strong>Wk 7</strong></td>
         <td>3</td>
-        <td><strong>2015 06 02</strong><br>13 - Files and Persistence 1</td>
-        <td><strong>2015 06 04</strong><br>14 - Files and Persistence 2</td>
+        <td><strong>2015 06 02</strong><br>
+            13 - Introduction to Auto Layout<br>
+            <em>Assessment #4 assigned</em>
+        </td>
+        <td><strong>2015 06 04</strong><br>
+            14 - iOS Design Patterns
+        </td>
     </tr>
     
     <tr>
         <td><strong>Wk 8</strong></td>
         <td>3</td>
-        <td><strong>2015 06 09</strong><br>15 - Networking 1</td>
-        <td><strong>2015 06 11</strong><br>16 - Networking 2</td>
+        <td><strong>2015 06 09</strong><br>
+            15 - Files and Persistence 1<br>
+            <em>Midterm due</em>
+        </td>
+        <td><strong>2015 06 11</strong><br>16 - Files and Persistence 2</td>
     </tr>
     
     <tr>
         <td><strong>Wk 9</strong></td>
         <td></td>
-        <td><strong>2015 06 16</strong><br>18 - Bonus Lesson</td>
-        <td><strong>2015 06 18</strong><br>19 - Review / Lab Time</td>
+        <td><strong>2015 06 16</strong><br>18 - Networking 1</td>
+        <td><strong>2015 06 18</strong><br>19 - Networking 2</td>
     </tr>
     
     <tr>
