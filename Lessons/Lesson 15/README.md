@@ -17,8 +17,13 @@
 * User Defaults
     * About user defaults
     * NSUserDefaults
+<<<<<<< HEAD
         * Storing
         * Retrieving
+=======
+    * Storing
+    * Retrieving
+>>>>>>> 00b4263a8f9ab9e053f1052d460b452dd138f970
 * Property Lists
     * What are property lists?
     * Storing
